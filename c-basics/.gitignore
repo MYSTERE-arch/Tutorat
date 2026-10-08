@@ -1,0 +1,11 @@
+#Compiled executables
+hello
+double
+a.out
+
+#Object File
+*.o
+
+#Temporary files
+*~
+*.swp
