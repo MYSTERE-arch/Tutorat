@@ -2,6 +2,7 @@
 hello
 double
 functions
+loop_ptr
 a.out
 
 #Object File
@@ -10,5 +11,3 @@ a.out
 #Temporary files
 *~
 *.swp
-loop.ptr
-loop_ptr
