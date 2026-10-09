@@ -10,3 +10,4 @@ a.out
 #Temporary files
 *~
 *.swp
+loop.ptr
